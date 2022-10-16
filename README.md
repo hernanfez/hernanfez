@@ -5,6 +5,8 @@
   </h3>
 <h3 align="justify"> 🔭 I have worked in different roles such as Software Developer, Software Engineer, Machine Learning Engineer and Data Engineer. I am currently specialized in Build & Design of Data Pipelines/Data Architectures for information storing in Data Warehouse/Data Lake in On-Premise and Cloud environments (AWS, GCP)</h3>
 
+<h3 align="justify"> 🌱 I am currently specialized in Build & Design of Data Pipelines/Data Architectures for information storing in Data Warehouse/Data Lake in On-Premise and Cloud environments (AWS, GCP)</h3>
+
 - 📫 How to reach me **fernandezcarnefelipe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
