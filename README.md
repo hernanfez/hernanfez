@@ -1,7 +1,7 @@
-### Hi there 👋
+### 
 
-<h1 align="justify">Hi 👋, I'm Hernán Felipe Fernández</h1>
-<h3 align="justify">A passionate Software Engineer. 8+ years of experience involved in software development projects. 
+<h1 align="justify">Hi 👋, I'm Hernán Felipe Fernández 😄</h1>
+<h3 align="justify">⭐️ A passionate Software Engineer. 8+ years of experience involved in software development projects. 
   </h3>
 <h3 align="justify"> 🔭 I have worked in different roles such as Software Developer, Software Engineer, Machine Learning Engineer and Data Engineer. I am currently specialized in Build & design of data pipelines/data architectures for information storing in Data Warehouse/Data Lake in on-premise and cloud environments (AWS, GCP)</h3>
 
