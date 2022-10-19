@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="justify">Hi 👋, I'm Hernán Felipe Fernández 😄</h1>
-<h3 align="justify">⭐️ A passionate Software Engineer. 8+ years of experience involved in software development projects. 
+<h3 align="justify">⭐️ A passionate Software Engineer. 
   </h3>
 <h3 align="justify"> 🔭 I have worked in different roles such as Software Developer, Software Engineer, Machine Learning Engineer and Data Engineer. 
 </h3>
